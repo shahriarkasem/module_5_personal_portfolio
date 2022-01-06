@@ -11,13 +11,13 @@ h2{
     font-size: 40px;
 }
 h3{
-    font-size: 30px;
+    font-size: 35px;
 }
 .orange-color{
     color: orange;
 }
-.red-color{
-    color: red;
+.light-red-color{
+    color: rgb(199, 59, 59);
 }
 .flexible-container{
     display: flex;
