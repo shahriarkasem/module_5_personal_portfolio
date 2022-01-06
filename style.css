@@ -13,10 +13,13 @@ h3{
     font-size: 35px;
 }
 .orange-color{
-    color: orange;
+    color: rgba(224, 175, 11, 0.822);
 }
 .light-red-color{
     color: rgb(199, 59, 59);
+}
+.pink-color{
+    color: rgb(161, 29, 51);
 }
 .flexible-container{
     display: flex;
@@ -88,6 +91,14 @@ h3{
 #project-img{
     width: 700px;
     height: 500px;
+}
+#climate-change{
+    text-align: center;
+}
+#img-savesundarban{
+    width: 600px;
+    height: 400px;
+    margin-top: 5%;
 }
 footer{
     text-align: center;
