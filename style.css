@@ -3,7 +3,6 @@ body{
     font-family: 'Roboto', sans-serif;
     margin-left: 10%;
     margin-top: 5%;
-    margin-bottom: 150%;
 }
 h1{
     font-size: 50px;
@@ -76,7 +75,7 @@ h3{
    background-position: left;
    background-size: 200px;
    margin-left: 5%;
-   padding-left: 10%;
+   padding-left: 15%;
 }
 #mid-section{
     padding: 10px 20px;
