@@ -16,6 +16,9 @@ h3{
 .orange-color{
     color: orange;
 }
+.red-color{
+    color: red;
+}
 .flexible-container{
     display: flex;
     margin-bottom: 50px;
@@ -80,4 +83,17 @@ h3{
 #mid-section{
     padding: 10px 20px;
     width: 900px;
+}
+#project-img{
+    width: 400px;
+    height: 400px;
+}
+footer{
+    margin: 0;
+    text-align: center;
+    text-decoration: none;
+    color: rgb(221, 216, 216);
+    background-color: rgba(0, 0, 0, 0.911);
+    padding-top: 1%;
+    padding-bottom: 1%;
 }
