@@ -3,15 +3,23 @@ body{
     font-family: 'Roboto', sans-serif;
     margin-left: 10%;
     margin-top: 5%;
+    margin-bottom: 150%;
 }
 h1{
     font-size: 50px;
+}
+h2{
+    font-size: 40px;
+}
+h3{
+    font-size: 30px;
 }
 .orange-color{
     color: orange;
 }
 .flexible-container{
     display: flex;
+    margin-bottom: 50px;
 }
 .half-width{
     width: 50%;
@@ -42,21 +50,35 @@ h1{
 #mission-1{
     background-color: rgba(44, 202, 110, 0.274);
     margin: 10px;
-    border-radius: 10px;
+    border-radius: 30px;
     padding-left: 20px;
     padding-right: 20px;
 }
 #mission-2{
     background-color: rgba(169, 224, 41, 0.274);
     margin: 10px;
-    border-radius: 10px;
+    border-radius: 30px;
     padding-left: 20px;
     padding-right: 20px;
 }
 #mission-3{
     background-color: rgba(223, 202, 17, 0.274);
     margin: 10px;
-    border-radius: 10px;
+    border-radius: 30px;
     padding-left: 20px;
     padding-right: 20px;
+}
+#coding-img{
+   width: 400px;
+   height: 400px;
+   background-image: url(images/shapes/shape-1.png);
+   background-repeat: no-repeat;
+   background-position: left;
+   background-size: 200px;
+   margin-left: 5%;
+   padding-left: 10%;
+}
+#mid-section{
+    padding: 10px 20px;
+    width: 900px;
 }
